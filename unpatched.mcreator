@@ -1,0 +1,44 @@
+{
+  "mod_elements": [
+    {
+      "name": "WallpaperManager",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "wallpaper_manager",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/unpatched/WallpaperManager.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "unpatched",
+    "modName": "Unpatched",
+    "version": "1.0.0",
+    "author": "kelli, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.unpatched"
+  },
+  "mcreatorVersion": 202400452410
+}
