@@ -11,6 +11,31 @@
           "src/main/java/net/mcreator/unpatched/WallpaperManager.java"
         ]
       }
+    },
+    {
+      "name": "FileManager",
+      "type": "code",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "file_manager",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/unpatched/FileManager.java"
+        ]
+      }
+    },
+    {
+      "name": "CreateTxtOnFirstDtartup",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "create_txt_on_first_dtartup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/unpatched/procedures/CreateTxtOnFirstDtartupProcedure.java"
+        ],
+        "dependencies": []
+      }
     }
   ],
   "variable_elements": [],
