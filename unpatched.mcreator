@@ -36,6 +36,18 @@
         ],
         "dependencies": []
       }
+    },
+    {
+      "name": "TitleScreen",
+      "type": "mixin",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "title_screen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/unpatched/mixins/TitleScreenMixin.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],

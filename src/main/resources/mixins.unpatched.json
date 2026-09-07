@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.mcreator.unpatched.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.unpatched.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+            "TitleScreenMixin"
+  ],
+  "minVersion": "0.8"
+}

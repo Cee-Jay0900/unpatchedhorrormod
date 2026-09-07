@@ -1,0 +1,17 @@
+{
+    "targets": [
+        "vhs_target"
+    ],
+    "passes": [
+        {
+            "name": "scanlines",
+            "intarget": "minecraft:main",
+            "outtarget": "vhs_target"
+        },
+        {
+            "name": "blit",
+            "intarget": "vhs_target",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}
